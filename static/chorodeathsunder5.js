@@ -1,4 +1,4 @@
-Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master/static/Average_reported_cases_09182018.csv', function(err, rows){
+Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master/static/Deaths_under5.csv', function(err, rows){
       function unpack(rows, key) {
           return rows.map(function(row) { return row[key]; });
       }
@@ -7,7 +7,7 @@ Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master
         type: 'choropleth',
         locationmode: 'country names',
         locations: unpack(rows, 'country'),
-        z: unpack(rows, 'AVG_Cases_09_14'),
+        z: unpack(rows, 'Deaths5andUnder'),
         text: unpack(rows, 'country'),
         autocolorscale: true
     }];
