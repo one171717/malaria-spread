@@ -1,0 +1,197 @@
+country ,code,Deaths5andUnder
+Afghanistan,AFG,40.18672294
+Albania,ALB,0
+Algeria,DZA,0.043616795
+American Samoa,ASM,0.038864424
+Andorra,AND,0
+Angola,AGO,778.4298162
+Antigua and Barbuda,ATG,0
+Argentina,ARG,0.003673036
+Armenia,ARM,0.00153314
+Australia,AUS,0
+Austria,AUT,0
+Azerbaijan,AZE,0.00932821
+Bahamas,BHS,0
+Bahrain,BHR,0
+Bangladesh,BGD,0.049922822
+Barbados,BRB,0
+Belarus,BLR,0
+Belgium,BEL,0
+Belize,BLZ,0.340183938
+Benin,BEN,2055.4939
+Bermuda,BMU,0.01547321
+Bhutan,BTN,67.3827412
+Bolivia,BOL,0.900435571
+Bosnia and Herzegovina,BIH,0
+Botswana,BWA,6.170965383
+Brazil,BRA,0.345809533
+Brunei,BRN,0
+Bulgaria,BGR,0
+Burkina Faso,BFA,5972.813584
+Burundi,BDI,1674.870254
+Cambodia,KHM,109.0086128
+Cameroon,CMR,3248.527808
+Canada,CAN,0
+Cape Verde,CPV,0.495876508
+Central African Republic,CAF,2502.134477
+Chad,TCD,1201.955974
+Chile,CHL,0
+China,CHN,0.018070705
+Colombia,COL,1.581919207
+Comoros,COM,22.31686496
+Congo,COG,1273.189176
+Costa Rica,CRI,0.00346693
+Cote d'Ivoire,CIV,3316.161935
+Croatia,HRV,0
+Cuba,CUB,0
+Cyprus,CYP,0
+Czech Republic,CZE,0
+Democratic Republic of Congo,COD,3486.234696
+Denmark,DNK,0
+Djibouti,DJI,1.039511131
+Dominica,DMA,0
+Dominican Republic,DOM,0.043532497
+Ecuador,ECU,0.437643253
+Egypt,EGY,0.013775312
+El Salvador,SLV,0.005724625
+Equatorial Guinea,GNQ,4348.265899
+Eritrea,ERI,141.670275
+Estonia,EST,0
+Ethiopia,ETH,34.04586184
+Fiji,FJI,0
+Finland,FIN,0
+France,FRA,0
+Gabon,GAB,1107.174999
+Gambia,GMB,359.7870956
+Georgia,GEO,0.003106987
+Germany,DEU,0
+Ghana,GHA,2227.881383
+Greece,GRC,0
+Greenland,GRL,0
+Grenada,GRD,0
+Guam,GUM,0.193933934
+Guatemala,GTM,0.396908774
+Guinea,GIN,3798.04879
+Guinea-Bissau,GNB,613.8426719
+Guyana,GUY,8.350171605
+Haiti,HTI,0.705843055
+Honduras,HND,2.351632637
+Hungary,HUN,0
+Iceland,ISL,0
+India,IND,113.8864303
+Indonesia,IDN,17.50340648
+Iran,IRN,0.037372084
+Iraq,IRQ,0
+Ireland,IRL,0
+Israel,ISR,0
+Italy,ITA,0
+Jamaica,JAM,0
+Japan,JPN,0
+Jordan,JOR,0
+Kazakhstan,KAZ,0
+Kenya,KEN,198.3205297
+Kiribati,KIR,0
+Kuwait,KWT,0
+Kyrgyzstan,KGZ,0.005762225
+Laos,LAO,2.864793986
+Latvia,LVA,0
+Lebanon,LBN,0
+Lesotho,LSO,0
+Liberia,LBR,1770.32625
+Libya,LBY,0
+Lithuania,LTU,0
+Luxembourg,LUX,0
+Macedonia,MKD,0
+Madagascar,MDG,532.9442406
+Malawi,MWI,1667.503891
+Malaysia,MYS,0.265286615
+Maldives,MDV,0
+Mali,MLI,4571.927581
+Malta,MLT,0
+Marshall Islands,MHL,0
+Mauritania,MRT,198.2572879
+Mauritius,MUS,0.013806306
+Mexico,MEX,0.006367545
+Micronesia (country),FSM,0
+Moldova,MDA,0
+Mongolia,MNG,0
+Montenegro,MNE,0
+Morocco,MAR,0
+Mozambique,MOZ,2171.022833
+Myanmar,MMR,106.1787948
+Namibia,NAM,71.92590927
+Nepal,NPL,45.55001846
+Netherlands,NLD,0
+New Zealand,NZL,0
+Nicaragua,NIC,0.297865373
+Niger,NER,5439.838991
+Nigeria,NGA,4577.324286
+North Korea,PRK,0.005330219
+Northern Mariana Islands,MNP,0.102402645
+Norway,NOR,0
+Oman,OMN,0
+Pakistan,PAK,30.64897399
+Palestine,PSE,0
+Panama,PAN,0.018942695
+Papua New Guinea,PNG,99.60652752
+Paraguay,PRY,0.008233078
+Peru,PER,0.156010428
+Philippines,PHL,0.556421654
+Poland,POL,0
+Portugal,PRT,0
+Puerto Rico,PRI,0.013570608
+Qatar,QAT,0
+Romania,ROU,0
+Russia,RUS,0
+Rwanda,RWA,498.9305971
+Saint Lucia,LCA,0
+Saint Vincent and the Grenadines,VCT,0
+Samoa,WSM,0
+Sao Tome and Principe,STP,3.29759964
+Saudi Arabia,SAU,0.061169163
+Senegal,SEN,604.7053782
+Serbia,SRB,0
+Seychelles,SYC,0
+Sierra Leone,SLE,5024.983796
+Singapore,SGP,0
+Slovakia,SVK,0
+Slovenia,SVN,0
+Solomon Islands,SLB,2.015230317
+Somalia,SOM,578.5407091
+South Africa,ZAF,0.989647126
+South Korea,KOR,0.001536302
+South Sudan,SSD,592.2760578
+Spain,ESP,0
+Sri Lanka,LKA,0.638556292
+Sudan,SDN,204.4160559
+Suriname,SUR,2.937323506
+Swaziland,SWZ,0.247033149
+Sweden,SWE,0
+Switzerland,CHE,0
+Syria,SYR,0
+Taiwan,TWN,0
+Tajikistan,TJK,0.103001166
+Tanzania,TZA,886.5945363
+Thailand,THA,0.211460489
+Timor,TLS,2.412177041
+Togo,TGO,3361.145606
+Tonga,TON,0
+Trinidad and Tobago,TTO,0
+Tunisia,TUN,0
+Turkey,TUR,0.00659894
+Turkmenistan,TKM,0
+Uganda,UGA,2197.043653
+Ukraine,UKR,0
+United Arab Emirates,ARE,0
+United Kingdom,GBR,0
+United States,USA,0
+United States Virgin Islands,VIR,0.009011018
+Uruguay,URY,0
+Uzbekistan,UZB,0.007419925
+Vanuatu,VUT,0.553318652
+Venezuela,VEN,0.434348644
+Vietnam,VNM,8.37455183
+World,OWID_WRL,548.956963
+Yemen,YEM,0.089876385
+Zambia,ZMB,743.6660528
+Zimbabwe,ZWE,153.6782152
