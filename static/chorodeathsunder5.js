@@ -6,14 +6,14 @@ Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master
     var data = [{
         type: 'choropleth',
         locationmode: 'country names',
-        locations: unpack(rows, 'country'),
+        locations: unpack(rows, 'country '),
         z: unpack(rows, 'Deaths5andUnder'),
-        text: unpack(rows, 'country'),
+        text: unpack(rows, 'country '),
         autocolorscale: true
     }];
 
     var layout = {
-      title: 'Average reported cases of Malaria for last decade',
+      title: 'Average reported cases of Malaria deaths for children under 5 for last decade',
       geo: {
           projection: {
               type: 'robinson'
