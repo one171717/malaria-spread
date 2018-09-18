@@ -7,7 +7,7 @@ Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master
         type: 'choropleth',
         locationmode: 'country names',
         locations: unpack(rows, 'country'),
-        z: unpack(rows, 'malaria_cases'),
+        z: unpack(rows, 'AVG_Cases_09_14'),
         text: unpack(rows, 'country'),
         autocolorscale: true
     }];
