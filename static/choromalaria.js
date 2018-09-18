@@ -1,4 +1,4 @@
-Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/2010_alcohol_consumption_by_country.csv', function(err, rows){
+Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master/static/Average_reported_cases_09182018.csv', function(err, rows){
       function unpack(rows, key) {
           return rows.map(function(row) { return row[key]; });
       }
@@ -6,14 +6,14 @@ Plotly.d3.csv('https://raw.githubusercontent.com/plotly/datasets/master/2010_alc
     var data = [{
         type: 'choropleth',
         locationmode: 'country names',
-        locations: unpack(rows, 'location'),
-        z: unpack(rows, 'alcohol'),
-        text: unpack(rows, 'location'),
+        locations: unpack(rows, 'country'),
+        z: unpack(rows, 'malaria_cases'),
+        text: unpack(rows, 'country'),
         autocolorscale: true
     }];
 
     var layout = {
-      title: 'Pure alcohol consumption among adults (age 15+) in 2010',
+      title: 'Average reported cases of Malaria for last decade',
       geo: {
           projection: {
               type: 'robinson'
