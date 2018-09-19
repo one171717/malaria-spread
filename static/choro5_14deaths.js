@@ -1,4 +1,4 @@
-Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master/static/Deaths_5_14.csv', function(err, rows){
+Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master/static/Deaths_5_14_v2.csv', function(err, rows){
       function unpack(rows, key) {
           return rows.map(function(row) { return row[key]; });
       }
@@ -6,9 +6,9 @@ Plotly.d3.csv('https://raw.githubusercontent.com/one171717/malaria-spread/master
     var data = [{
         type: 'choropleth',
         locationmode: 'country names',
-        locations: unpack(rows, 'country '),
+        locations: unpack(rows, 'country'),
         z: unpack(rows, 'Deaths_5_14'),
-        text: unpack(rows, 'country '),
+        text: unpack(rows, 'country'),
         autocolorscale: true
     }];
 
